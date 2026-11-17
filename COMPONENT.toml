@@ -3,7 +3,7 @@ name = "SigmaOS-hyprland-config"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "hyprland-config component"
+description = "Hyprland Wayland compositor configuration for Omarchy persona with keybindings, window rules, and theme integration"
 upstream = []
 
 [contract]
