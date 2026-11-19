@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_hyprland_config"
+version = "0.1.0"
+edition = "2021"
+description = "Hyprland Wayland compositor configuration parser, validator, and theme injector for Omarchy persona"
+
+[lib]
+name = "sigmaos_hyprland_config"
+path = "src/lib.rs"

@@ -1,7 +1,7 @@
 [component]
 name = "SigmaOS-hyprland-config"
 tier = 2
-stability = "scaffold"
+stability = "beta"
 language = "rust"
 description = "Hyprland Wayland compositor configuration for Omarchy persona with keybindings, window rules, and theme integration"
 upstream = []
@@ -11,6 +11,6 @@ provides = ["component"]
 depends_on = []
 
 [maturity]
-status = "Scaffold"
+status = "Implemented"
 test_evidence = "Compiles and passes AAA unit tests"
 next_milestone = "Hardware and runtime integration"
