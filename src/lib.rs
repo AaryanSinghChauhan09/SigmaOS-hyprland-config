@@ -10,6 +10,9 @@
 
 #![forbid(unsafe_code)]
 
+/// Compositor management: windows, workspaces, keybindings (Walker-style).
+pub mod sigmawalker;
+
 use std::collections::HashMap;
 
 /// Modifier keys for Hyprland bindings.
